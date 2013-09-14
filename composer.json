@@ -28,5 +28,10 @@
             "dev-master": "0.1.0-dev"
         }
     },
+    "source": {
+        "url": "git://github.com/devel-pa/large.git",
+        "type": "git",
+        "reference": "master"
+    },
     "minimum-stability": "dev"
 }
